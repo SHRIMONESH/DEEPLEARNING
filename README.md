@@ -60,11 +60,17 @@ The primary goals of this project were centered on creating a clinically useful 
 | :--- | :--- | :--- | :--- |
 | **False Negatives** | [cite_start]33 [cite: 104] | [cite_start]**13** [cite: 110] | [cite_start]**$> 60\%$ Reduction** [cite: 28, 110] |
 | **Recall (Sensitivity)** | 89.00% (at 0.5)  | [cite_start]**95.67%** [cite: 111] | Significantly increased |
+![WhatsApp Image 2025-10-11 at 22 28 43_a8df2daa](https://github.com/user-attachments/assets/29b99040-b3fc-4879-b299-ef2e66148070)
+![WhatsApp Image 2025-10-11 at 22 31 06_74be004c](https://github.com/user-attachments/assets/ea0deaea-dbf3-4fca-baed-798d15be6f96)
+![WhatsApp Image 2025-10-11 at 22 23 58_bf17bae6](https://github.com/user-attachments/assets/a707e09b-8156-4f54-afde-73bcb67d41a8)
+
 
 ### Model Interpretability (Grad-CAM)
 
 [cite_start]**Grad-CAM heatmaps** confirm the model's trustworthiness by visually demonstrating that it focuses on the **relevant pathological features within the lesion area** when making predictions, rather than relying on external artifacts[cite: 29, 113]. 
 ---
+![WhatsApp Image 2025-10-13 at 09 00 10_ac065d7c](https://github.com/user-attachments/assets/1eaf69e2-f64e-4f69-9d86-6646be50643d)
+![WhatsApp Image 2025-10-13 at 09 01 53_6889d9a7](https://github.com/user-attachments/assets/6ce31eca-1af0-409a-b639-4d0ca323b3cc)
 
 ## 🎓 Academic Details
 
